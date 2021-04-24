@@ -1,5 +1,5 @@
 {
-  "name": "facerecognition",
+  "name": "face-recognition-smarts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
